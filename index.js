@@ -3,5 +3,5 @@ function sim() {
 }
 
 function nao() {
-    return("<h1>asd<h1/>");
+    
 }
